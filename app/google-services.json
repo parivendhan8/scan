@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940970838460",
+    "firebase_url": "https://tidy-shard-94513.firebaseio.com",
+    "project_id": "tidy-shard-94513",
+    "storage_bucket": "tidy-shard-94513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940970838460:android:a7108cb4b0a069d3",
+        "android_client_info": {
+          "package_name": "techy.ap.scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940970838460-he68mi285695t03clkqb9c8hd393j1io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techy.ap.scan",
+            "certificate_hash": "7c43e5e192a0a2d42c9889aa3cc59bb426651583"
+          }
+        },
+        {
+          "client_id": "940970838460-2c4udomgss5uk1jrfq6ggcq2kh8c4mf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkl14npQvwdx6HkzHHTDkv6TBxQ51U_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940970838460-2c4udomgss5uk1jrfq6ggcq2kh8c4mf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
